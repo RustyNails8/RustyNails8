@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=rustynails8&count_private=true&show_icons=true&theme=slateorange&hide_rank=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=rustynails8&count_private=true&show_icons=true&theme=cobalt&hide_rank=false&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
