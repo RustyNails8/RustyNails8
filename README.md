@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustynails8&show_icons=true)
+
+
 <!--
 **RustyNails8/RustyNails8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
