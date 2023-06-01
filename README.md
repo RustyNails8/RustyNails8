@@ -4,7 +4,7 @@
 
 [![Sumit's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=RustyNails&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages used by Sumit](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyNails&layout=compact)](https://github.com/rustynails8/github-readme-stats)
+[![Top Languages used by Sumit](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyNails&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
