@@ -15,12 +15,12 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustynails8&show_icons=true&locale=en&layout=compact" alt="rustynails8" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rustynails8&show_icons=true&locale=en" alt="rustynails8" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rustynails88&" alt="rustynails8" /></p><p></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rustynails8&show_icons=true&locale=en" alt="rustynails8" /></p><p></p>
 
 
 <!--
 ### Hello world 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rustynails8&" alt="rustynails8" /></p>
 
 [![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=rustynails8&count_private=true&show_icons=true&theme=cobalt&hide_rank=false&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
